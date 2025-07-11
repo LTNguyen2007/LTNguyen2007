@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Xin chào! Tôi là Trọng Nguyễn (aka LTN2007)
 
-<!--
-**LTNguyen2007/LTNguyen2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Tôi là người tự học An ninh mạng, lập trình web và phát triển bản thân mỗi ngày.
 
-Here are some ideas to get you started:
+## 💡 Tôi đang học:
+- 🛡️ An ninh mạng: Network, SQLi, XSS, Bug bounty
+- 🧠 Ngôn ngữ lập trình: JavaScript, Python
+- 🧱 Xây dựng sức mạnh bằng Calisthenics & Kỷ luật bản thân
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Dự án nổi bật:
+- 🔍 `sql-injection-lab`: Tự tạo lab SQLi trên Termux
+- 🔐 `termux-hacking-setup`: Bộ công cụ Termux cho hacking an toàn
+- 🌐 `my-portfolio`: Portfolio cá nhân (đang phát triển)
+
+## 📫 Kết nối:
+- Email: letrongnguyen807@gmail.com
+- Blog: [sắp ra mắt]
+
+> “Mỗi ngày tôi chọn một điều khó để tôi vượt qua chính mình.”
