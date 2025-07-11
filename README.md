@@ -1,4 +1,4 @@
-# 👋 Xin chào! Tôi là Trọng Nguyễn (aka LTN2007)
+# 👋 Xin chào! Tôi là Lê Trọng Nguyễn (aka LTNguyen2007)
 
 🎯 Tôi là người tự học An ninh mạng, lập trình web và phát triển bản thân mỗi ngày.
 
